@@ -11,7 +11,8 @@ We discuss statistically valid inference of the ratio
 estimator under Differential Privacy (DP).
 We use the delta method to derive the
 asymptotic distribution of the ratio estimator and
-use the Gaussian mechanism to provide $(\epsilon,%20\delta)$ privacy guarantees.
+use the Gaussian mechanism to provide
+<img src="https://render.githubusercontent.com/render/math?math=(\epsilon, \delta)"> privacy guarantees.
 Like many statistics, the quantities
 needed here can be re-written as functions of
 sums, and sums are easy to work with for many reasons.
