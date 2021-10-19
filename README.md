@@ -28,3 +28,9 @@ and the other based on corrected variance terms.
 We show that the CIs of our methods have the right coverage with proper privacy budget.
 In addition, our methods can handle weighted data,
 where the weights are fixed and bounded.
+
+
+## License
+The majority of the project is licensed under CC-BY-NC;
+however, portions of the project are available under separate license terms:
+Numpy and pandas are licensed under the BSD-3 license.
