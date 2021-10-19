@@ -33,4 +33,4 @@ where the weights are fixed and bounded.
 ## License
 The majority of the project is licensed under CC-BY-NC;
 however, portions of the project are available under separate license terms:
-Numpy and pandas are licensed under the BSD-3 license.
+numpy and pandas are licensed under the BSD-3 license.
