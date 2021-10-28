@@ -1,4 +1,4 @@
-# Privacy Preserving Inference on the Ratio of Two Gaussians Using the Sums
+# Privacy Preserving Inference on the Ratio of Two Gaussians Using (Weighted) Sums
 
 This repo holds the [simulation](simulation.ipynb) used in paper
 
