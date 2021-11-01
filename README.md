@@ -2,7 +2,9 @@
 
 This repo holds the [simulation](simulation.ipynb) used in paper
 
-**To be added**.
+Jingang Miao, Yiming Paul Li. (2021). Privacy Preserving Inference on
+ the Ratio of Two Gaussians Using (Weighted) Sums.
+[arXiv:2110.15449](https://arxiv.org/abs/2110.15449).
 
 Here is the abstract:
 
