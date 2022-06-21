@@ -6,6 +6,9 @@ Jingang Miao, Yiming Paul Li. (2021). Privacy Preserving Inference on
  the Ratio of Two Gaussians Using (Weighted) Sums.
 [arXiv:2110.15449](https://arxiv.org/abs/2110.15449).
 
+To appear in the Journal of Data Science:
+https://jds-online.org/journal/JDS/article/1281/info
+
 Here is the abstract:
 
 > The ratio of two Gaussians is useful in many contexts of statistical inference.
